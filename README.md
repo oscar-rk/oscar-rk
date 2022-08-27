@@ -66,4 +66,5 @@
 <p align="center">
   <a href="https://github.com/oscar-rk"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=oscar-rk&logo=github&color=181717" alt="GitHub"></a>&nbsp;
   <a href="https://app.hackthebox.com/profile/1072161"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=oscarrk&logo=hackthebox&color=9FEF00" alt="HackTheBox"></a>
+  <a href="mailto:oscar-rk@pm.me"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=oscar-rk@pm.me&logo=protonmail&color=8a90c7" alt="Email"></a>
 </p>
