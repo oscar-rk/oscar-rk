@@ -60,6 +60,9 @@
 <p align="center">
   <a href="https://github.com/oscar-rk/CTF-Writeups"> 📝 CTF Writeups </a>
 </p> 
+<p align="center">
+  <a href="https://gist.github.com/oscar-rk/7b498fc0ae44ae4f101283f18027ffc9"> 🆕 My Gists </a>
+</p> 
 
 </br>
 
