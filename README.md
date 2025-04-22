@@ -5,7 +5,7 @@
 </div>
   
 <div align = "center">
-  <h3> SysAdmin | Infosec & Cloud | CTF Player </h3> 
+  <h3> SysAdmin | Infosec & Cloud | DevOps | CTF Player </h3> 
 </div>
 
 </br>
